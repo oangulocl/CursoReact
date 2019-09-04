@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@material-ui/core": "^4.2.0",
+    "convert-units": "^2.3.4",
+    "prop-types": "^15.7.2",
+    "react-weathericons": "^1.0.4"
+  }
+}
